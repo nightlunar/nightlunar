@@ -16,19 +16,16 @@
 </p>
 &nbsp;
 <p align="center">
-    <a href="https://github.com/ZeroDiscord/">
+    <a href="https://github.com/nightlunar/">
         <img src="./assets/icons/other/github-solid.svg/" width="25px" />
     </a>
     &nbsp;
-    <a href="https://discord.com/users/603948445362946084">
+    <a href="https://discord.com/users/636573504598442084">
         <img src="./assets/icons/other/discord-solid.svg/" width="25px" />
     </a>
     &nbsp;
-    <a href="https://twitter.com/RestInPeaceZero/">
-        <img src="./assets/icons/other/twitter-solid.svg/" width="25px" />
-    </a>
     &nbsp;
-    <a href="https://www.youtube.com/c/ZeroSync">
+    <a href="https://www.youtube.com/c/pythonic">
         <img src="./assets/icons/other/youtube-solid.svg/" width="25px" />
     </a>
     
