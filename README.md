@@ -1,18 +1,50 @@
-<h1 align="center">Hi 👋, I'm nightlunar</h1>
-<h3 align="center">also known as pythonic.</h3>
-
-- 🔭 I’m currently working on **FeriBot**
-
-- 💬 Ask me about **nodeJS, Discord.JS**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/pythonic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pythonic" height="30" width="40" /></a>
-<a href="https://discord.gg/javascript" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="javascript" height="30" width="40" /></a>
+<h2 align="center">
+    Hello there! I am <strong>Zero</strong>. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h2>
+<p align="center">
+    I am a CS Student & Youtuber who aspires to be a software developer in the near future, I mainly work as a developer on a VoIP platform called <strong> <a href="https://discord.com">Discord</a></strong>
+<br>
+<br>
+<a href="https://github.com/ZeroDiscord/">
+        <img src="https://komarev.com/ghpvc/?username=ZeroDiscord&color=red" />
+  </a> 
+<br>
+<br>
+<a href="https://discord.com/users/603948445362946084">
+        <img src="https://lanyard.cnrad.dev/api/636573504598442084?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" />
+    </a>
 </p>
-[![Discord Presence](https://lanyard.cnrad.dev/api/636573504598442084
-                            )](https://discord.com/users/636573504598442084)
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+&nbsp;
+<p align="center">
+    <a href="https://github.com/ZeroDiscord/">
+        <img src="./assets/icons/other/github-solid.svg/" width="25px" />
+    </a>
+    &nbsp;
+    <a href="https://discord.com/users/603948445362946084">
+        <img src="./assets/icons/other/discord-solid.svg/" width="25px" />
+    </a>
+    &nbsp;
+    <a href="https://twitter.com/RestInPeaceZero/">
+        <img src="./assets/icons/other/twitter-solid.svg/" width="25px" />
+    </a>
+    &nbsp;
+    <a href="https://www.youtube.com/c/ZeroSync">
+        <img src="./assets/icons/other/youtube-solid.svg/" width="25px" />
+    </a>
+    
+</p>
+<hr/>
+<p align="center">
+    <a href="https://github.com/ZeroDiscord/">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=ZeroDiscord&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF)](https://git.io/streak-stats" />
+  </a> 
+  <a href="https://github.com/ZeroDiscord/">
+        <img src="https://github-readme-stats.vercel.app/api?username=ZeroDiscord&show_icons=true&theme=gruvbox" />
+  </a> 
+<br>
+<a href="https://github.com/ZeroDiscord/">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroDiscord&theme=gruvbox&langs_count=8&layout=compact" />
+  </a> 
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nightlunar&show_icons=true&locale=en" alt="nightlunar" /></p>
+
