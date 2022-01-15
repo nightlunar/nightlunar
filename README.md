@@ -1,8 +1,8 @@
 <h2 align="center">
-   Hey im<strong>Pythonic</strong>
+   Hey im <strong>Pythonic</strong>
 </h2>
 <p align="center">
-    I am a CS Student & Youtuber who aspires to be a software developer in the near future, I mainly work as a developer on a VoIP platform called <strong> <a href="https://discord.com">Discord</a></strong>
+    I am a full stack developer, you can join <a href="https://discord.gg/javascript">My Discord Server</a></strong>
 <br>
 <br>
 <a href="https://github.com/ZeroDiscord/">
