@@ -4,9 +4,18 @@
 <p align="center">
     I am a CS Student & Youtuber who aspires to be a software developer in the near future, I mainly work as a developer on a VoIP platform called <strong> <a href="https://discord.com">Discord</a></strong>
 <br>
-   <h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 <br>
+<a href="https://github.com/ZeroDiscord/">
+        <img src="https://komarev.com/ghpvc/?username=ZeroDiscord&color=red" />
+  </a> 
+<br>
+<br>
+<a href="https://discord.com/users/603948445362946084">
+        <img src="https://lanyard-profile-readme.vercel.app/api/603948445362946084?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" />
+    </a>
+</p>
+&nbsp;
+<p align="center">
 <a href="https://github.com/ZeroDiscord/">
         <img src="https://komarev.com/ghpvc/?username=nightlunar&color=red" />
   </a> 
