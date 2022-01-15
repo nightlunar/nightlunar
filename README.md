@@ -6,7 +6,7 @@
 <br>
 <br>
 <a href="https://github.com/ZeroDiscord/">
-        <img src="https://komarev.com/ghpvc/?username=ZeroDiscord&color=red" />
+        <img src="https://komarev.com/ghpvc/?username=nightlunar&color=red" />
   </a> 
 <br>
 <br>
